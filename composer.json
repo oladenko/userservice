@@ -1,5 +1,5 @@
 {
-  "name": "hillelod/useragent",
+  "name": "hillelod/user",
   "autoload": {
     "psr-4": {
       "Hillel\\UsAg\\": "./src"
