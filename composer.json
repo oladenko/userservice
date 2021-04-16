@@ -1,0 +1,11 @@
+{
+  "name": "hillelod/useragent",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\UsAg\\": "./src"
+    }
+  },
+  "require": {
+    "illuminate/support": "^v8.33.1"
+  }
+}
